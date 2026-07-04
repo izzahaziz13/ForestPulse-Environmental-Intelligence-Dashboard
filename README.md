@@ -4,7 +4,7 @@
 
 ForestPulse is an interactive Power BI dashboard developed to monitor deforestation and land-use change across Malaysia.
 
-The dashboard integrates multiple environmental datasets into a centralized platform to support decision-making through interactive visualizations and analytics.
+The dashboard integrates multiple environmental datasets into a centralized platform to support data-driven decision-making through interactive visualizations and analytics.
 
 ---
 
@@ -41,13 +41,15 @@ The dashboard integrates multiple environmental datasets into a centralized plat
 
 ---
 
-## Dashboard Preview
+## Project Files
 
-(Add screenshots here)
+- `ForestPulse.pbix` – Power BI dashboard
+- `Article ForestPulse.pdf` – Project documentation
 
 ---
 
 ## Author
 
-Nur Izzah Binti Aziz
+**Nur Izzah Binti Aziz**  
+Bachelor of Science with Honours (Information Technology)  
 Universiti Utara Malaysia
